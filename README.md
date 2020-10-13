@@ -1,3 +1,5 @@
+###### NOTE : This is deprecated. Please do not expect any updates.
+
 ## Thawne
 Thawne is a Sentinel for your Program. A trojan that Reinfects systems. It installs itself on the system it's Executed on. After which Thawne keeps checking if your File Exists on the System and is Running. If it's not running then Start it, If it does not exist or is removed Reinstall it.
 
