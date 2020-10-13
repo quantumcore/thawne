@@ -2,12 +2,12 @@
 Thawne is a Sentinel for your Program. A trojan that Reinfects systems. It installs itself on the system it's Executed on. After which Thawne keeps checking if your File Exists on the System and is Running. If it's not running then Start it, If it does not exist or is removed Reinstall it.
 
 #### Example
-![thawne](https://github.com/quantumcored/paradoxia/blob/master/images/thawne.gif)
+![thawne](https://github.com/quantumcored/thawne/raw/main/thawne.gif)
 
 #### Deployment (Example)
 After getting a Session in Paradoxia, You can see Bot information and in it, The **Agent Location**, Which is in this case the file I want to be guarded.
 
-![img](https://github.com/quantumcored/paradoxia/blob/master/images/agentlocation.PNG)
+![img](https://github.com/quantumcored/thawne/raw/main/agentlocation.png)
 
 We can use thawne with the **Agent Location** and it's absolute filename.
 
